@@ -1,0 +1,88 @@
+body{
+    border: solid pink 3px;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+    grid-template-rows: 15vh 70vh 33vh;
+    gap:5px;
+    background-color: antiquewhite;
+}
+
+img{
+    border: solid black 3px;
+    border-radius: 10px;
+    height: 160%;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h1{
+    border: solid black 3px;
+    border-radius: 10px;
+    text-align: center;
+    height: 110%;
+    padding-top: 60px;
+    margin-right: 10px;
+}
+
+
+nav{
+    border: solid black 3px;
+    border-radius: 10px;
+    margin-top: 120px;
+    margin-left: 10px;
+    height: 109%;
+ }
+
+h3{
+    text-align: center;
+}
+
+main{
+    margin-top: 120px;
+    text-align: center;
+    border: black solid 3px;
+    border-radius: 10px;
+    padding-bottom: 366px;
+    margin-right: 10px;
+}
+
+
+#art1{
+    border: solid black 3px;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+#art2{
+    border: solid black 3px;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+
+#art3{
+    border: solid black 3px;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+
+footer{
+    border: black solid 3px;
+    border-radius: 10px;
+    margin-top: 103px;
+    margin-bottom: 27px;
+    text-align: center;
+    margin-right: 10px;
+
+}
+
+u{
+    color: blue;
+}
